@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Samuele Gallicani, as known as SamuGallo-06
-  I'm 18 years old and i'm Italian. I'm attending the fifth year of high school of applied sciences.
-- 👀 My first interest is Computer science and software developement, i tried to develop some scripts in python to use for my purposes
-  and now i'm uploading them on github.
-  I'm also developing some games in Unity.
-- 🌱 I’m currently learning C#, python, dart (for flutter)..
+- 👋 Hi, I'm Samuele Gallicani, also known as SamuGallo-06
+  I'm 18 years old and I'm Italian. I'm currently attending the first year of the Computer Science program at the University of Modena and Reggio Emilia.
+- 👀 My main interest is Computer Science and software development. I've developed some Python scripts for my own use and am now uploading them to GitHub.
+  I am also developing some games in Unity.
+- 🌱 I'm currently learning C#, Python, Dart (for Flutter)...
 
 
 <!---
